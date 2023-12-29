@@ -1,0 +1,9 @@
+[submodule "src/Submodules/gp_debounced_button"]
+	path = src/Submodules/gp_debounced_button
+	url = https://github.com/Gigi181087/gp_debounced_button.git
+[submodule "src/Submodules/gp_led_controller"]
+	path = src/Submodules/gp_led_controller
+	url = https://github.com/Gigi181087/gp_led_controller.git
+[submodule "src/Submodules/gp_rfm95"]
+	path = src/Submodules/gp_rfm95
+	url = https://github.com/Gigi181087/gp_rfm95.git
